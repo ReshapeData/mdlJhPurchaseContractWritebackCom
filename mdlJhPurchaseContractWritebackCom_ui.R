@@ -9,9 +9,7 @@ tabItem(tabName = "mdlJhPurchaseContractWritebackCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdlDemoUI::dateUI(),
-                                     mdlDemoUI::buttonUI(),
-                                     mdlDemoUI::textUI()
+                                    mdlJhPurchaseContractWritebackUI::writebackUI()
                                      
                                     
                                     
